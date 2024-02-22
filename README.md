@@ -2,7 +2,7 @@
 This package wraps the SpaTial reasoning framework for use in [CoreSense](https://coresense.eu).
 
 ### Dependencies
-This package depens on `spatial_spec`, a python package available via pypi.
+This package depends on `spatial_spec`, a python package available via pypi.
 1. Create and activate a virtual environment as described by the [ROS2 Guide](https://docs.ros.org/en/foxy/How-To-Guides/Using-Python-Packages.html#installing-via-a-virtual-environment)
 2. install dependency:
 ```shell
